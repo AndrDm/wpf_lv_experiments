@@ -1,0 +1,13 @@
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Debug\WpfCustomControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Debug\WpfCustomControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary_MarkupCompile.lref
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\Themes\Generic.baml
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.g.resources
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.Properties.Resources.resources
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfCustomControlLibrary\obj\Debug\WpfCustomControlLibrary.pdb

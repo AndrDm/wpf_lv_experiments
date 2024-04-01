@@ -1,0 +1,6 @@
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Debug\WindowsFormsControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Debug\WindowsFormsControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.pdb

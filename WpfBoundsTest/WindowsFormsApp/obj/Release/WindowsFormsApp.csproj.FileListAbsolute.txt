@@ -1,0 +1,11 @@
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Release\WindowsFormsApp.exe.config
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Release\WindowsFormsApp.exe
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Release\WindowsFormsApp.pdb
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsApp\obj\Release\WindowsF.5F5EF213.Up2Date
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsApp\obj\Release\WindowsFormsApp.Form1.resources

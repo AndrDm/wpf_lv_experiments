@@ -1,0 +1,9 @@
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Release\WindowsFormsControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Release\WindowsFormsControlLibrary.pdb
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.UserControl1.resources
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Release\WindowsF.E371E5FC.Up2Date
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.dll
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WindowsFormsControlLibrary\obj\Release\WindowsFormsControlLibrary.pdb

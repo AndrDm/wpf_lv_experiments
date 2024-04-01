@@ -1,0 +1,16 @@
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Release\WpfApp.exe.config
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Release\WpfApp.exe
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\Release\WpfApp.pdb
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\MainWindow.g.cs
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\App.g.cs
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp_MarkupCompile.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp_MarkupCompile.lref
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\MainWindow.baml
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp.g.resources
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp.Properties.Resources.resources
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp.csproj.Up2Date
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp.exe
+C:\Users\Andrey\Desktop\wpf_bounds_test\WpfBoundsTest\WpfApp\obj\Release\WpfApp.pdb
